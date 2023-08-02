@@ -118,3 +118,32 @@ h2 {
     font-size: 18px;
     text-align: center;
 }
+
+.third {
+    background-color: #e5e7eb;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.third-p {
+    margin: 0;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.third-name {
+    padding: 0px 16px;
+    margin: 0px;
+    text-align: end;
+    font-weight: bold;
+    font-size: 26px;
+
+}
+
+.third-text {
+    width: 790px;
+}
