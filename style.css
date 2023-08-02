@@ -76,10 +76,10 @@ button {
 }
 
 .second {
-    height: 480px;
+    padding: 80px;
     display: flex;
     flex-direction: column;
-    justify-content: center
+    justify-content: center;
 }
 
 h2 {
@@ -96,6 +96,7 @@ h2 {
     justify-content: center;
     align-items: center;
     gap: 48px;
+    flex-wrap: wrap;
 }
 
 .child {
